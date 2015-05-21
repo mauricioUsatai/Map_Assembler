@@ -1,0 +1,11 @@
+######
+
+1) Get number of hosts from list.
+2) Determine arch length based on number of hosts.
+3) Always start at 0 degrees.
+4) r*cos(aggregated_angle) ... (-1)*r*sin(aggregated_angle).
+5) Calculate uplink angle.
+6) Calculate incident angle.
+7) Considerations on angle rotation.
+
+######
